@@ -1,0 +1,7 @@
+name: 'Hello World'
+description: 'Saying hello to the world'
+author: 'Marichka Tretiak'
+
+runs:
+  using: 'node16'
+  main: 'index.js'
